@@ -3,5 +3,5 @@
 int main()
 {
   printf("This is new file\n");
-  return 0;
+  return 1;
 }
